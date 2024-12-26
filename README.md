@@ -199,11 +199,7 @@ For support and queries:
 - 💬 Join our [Discord community](https://discord.gg/credSecure)
 - 📧 Email us at support@credsecure.com
 
-## 🙏 Acknowledgments
 
-- Special thanks to all contributors
-- Inspired by various open-source fraud detection systems
-- Dataset provided by [source name]
 
 ## 📚 Documentation
 
