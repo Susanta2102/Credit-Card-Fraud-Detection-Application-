@@ -22,7 +22,7 @@ This project implements a **fraud detection application** using a **Random Fores
 ## Setup & Installation:
 1. Clone the repository:
 ``` bash
-git clone https://github.com/KrishnenduMR/CredSecure.git
+git clone https://github.com/Susanta2102/Credit-Card-Fraud-Detection-Application-
 cd CredSecure
 ```
 2. install dependencies
