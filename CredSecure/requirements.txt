@@ -3,3 +3,4 @@ seaborn
 matplotlib
 flask
 flask-socketio
+gunicorn
